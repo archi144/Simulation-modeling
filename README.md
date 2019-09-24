@@ -12,6 +12,8 @@ Programs arrive randomly distributed over
 exponential law with a frequency of λ = 1.5 1 / s, and the average processing time
 the program of each server is tobr = 2 sec
 
+The simulation lasts 1 hour
+
 Computing System Features:
 
 P0 — the probability that there is not a single order in the system, all channels are free;
